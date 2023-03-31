@@ -1,0 +1,31 @@
+.submain{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 100svh;
+    justify-content: center;
+    text-align: center;
+
+}
+.loginclass{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+    justify-content: center;
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid rgb(8, 179, 217);
+    
+}
+div{
+    margin-top: 10px;
+}
+
+.inputs{
+    margin-top: 5px;
+    border-radius: 10px;
+    width: 200px;
+    height: 40px;
+}
